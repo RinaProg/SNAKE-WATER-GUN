@@ -6,7 +6,7 @@ player_score=0
 comp_score=0
 print("Choose any of them : Snake , Water , Gun")
 game=True
-# user=input("Enter your name->\n")
+
 while game:
     player=None
     comp = random.choice(option)
